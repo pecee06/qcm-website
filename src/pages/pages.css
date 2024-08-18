@@ -1,20 +1,17 @@
 #hero {
-  background: url("/src/assets/bg-gradient.png") no-repeat center center/cover;
+  background: url("/bg-gradient.png") no-repeat center center/cover;
 }
 
 #events {
-  background: url("/src/assets/bg-gradient.png") no-repeat center center/cover;
+  background: url("/bg-gradient.png") no-repeat center center/cover;
 }
 
 #auth {
-  background: url("/src/assets/bg-gradient.png") no-repeat center center/cover;
+  background: url("/bg-gradient.png") no-repeat center center/cover;
 }
 
 #play-quiz {
-  background: url("/src/assets/image-quiz-bg.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background: url("/image-quiz-bg.png") no-repeat center center/cover;
 }
 
 #hero .background-img {
@@ -28,13 +25,6 @@
   background-blend-mode: overlay;
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
-}
-
-#team-gallery {
-  background-image: url("/black-bg.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .glass-box {

@@ -1,30 +1,42 @@
 import { Container, SectionHead } from "./components"
 import { about } from "../assets/qcmData.json"
+import { aboutIllus } from "../assets/assets"
+import { useState } from "react"
 
 const About = () => {
+  const [exploreMore, setExploreMore] = useState(false)
+  const content = exploreMore ? about : about.split("\n")[0]
+
+  function exploreMoreHandler() {
+    setExploreMore(!exploreMore)
+  }
+
   return (
-    <Container
-      id="about"
-      className="w-screen bg-[#f8f3ea] sm:p-[3.5vmax] justify-center sm:justify-between items-center sm:items-start flex flex-col lg:flex-row lg:justify-between gap-4"
-    >
-      <div className="flex flex-col sm:w-1/3 sm:p-0 p-2 w-full mr-3 justify-between items-center">
-        <SectionHead label="About Us" />
-        {/* to be animated */}
-        <img
-          src="/team.jpeg"
-          alt="Team"
-          className="rounded-lg hidden lg:inline-block"
-        />
+    <Container id="about" className="w-screen">
+      <div
+        className="justify-center lg:h-[60vh] md:h-[30vh] flex"
+        style={{
+          background:
+            window.innerWidth >= 768
+              ? "url('/bg-about.png') no-repeat"
+              : "url('/bg-gradient.png') no-repeat",
+          backgroundPosition: "top center",
+          backgroundSize: "cover"
+        }}
+      >
+        <SectionHead label="About Us" className="text-white" />
       </div>
-      <div className="flex flex-col sm:gap-1 md:w-2/3 w-full mx-auto md:text-base text-xs border-2 border-slate-800 rounded-lg">
-        {about.split("\n").map((para, index) => (
-          <p
-            key={index}
-            className="text-justify px-4 sm:py-4 py-2 first-letter:text-[#FCA311] sm:first-letter:text-3xl first-letter:text-lg"
+      <div className="w-11/12 mx-auto flex my-4 items-center">
+        <p className="md:w-[60%] p-4 whitespace-pre-wrap text-justify md:text-base text-sm leading-relaxed">
+          {content}
+          <span
+            className="text-[#FCA311] cursor-pointer"
+            onClick={exploreMoreHandler}
           >
-            {para}
-          </p>
-        ))}
+            {exploreMore ? "\nExplore Less..." : "\nExplore More..."}
+          </span>
+        </p>
+        <img src={aboutIllus} alt="about" className="mx-auto hidden md:flex" />
       </div>
     </Container>
   )

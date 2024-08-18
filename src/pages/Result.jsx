@@ -1,21 +1,21 @@
 import "./pages.css"
-import { useParams, useNavigate } from "react-router-dom"
-import { Container, Button } from "../components/components"
+import { Link } from "react-router-dom"
+import { Container } from "../components/components"
 
 const Result = () => {
-  const { score } = useParams()
-  const navigate = useNavigate()
-
   return (
-    <Container className="h-screen bg-blue-500 flex flex-col justify-center items-center gap-4 londrina-solid-regular">
-      <h1 className="text-[7vmax] text-yellow-400">Score: {score}</h1>
-      <Button
-        className="bg-white p-2 rounded-lg"
-        label="Back to home page"
-        onClick={() => {
-          navigate("/")
-        }}
-      />
+    <Container
+      className="h-screen flex flex-col justify-center items-center gap-4 londrina-solid-regular"
+      style={{
+        background: 'url("/image-quiz-bg.png") no-repeat center center/cover'
+      }}
+    >
+      <h1 className="text-[5vmax] text-[#FCA311] border border-white p-2 rounded-lg">
+        Quiz Submitted Successfully
+      </h1>
+      <Link to="/" className="text-white underline text-lg">
+        Back to home page
+      </Link>
     </Container>
   )
 }

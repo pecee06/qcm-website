@@ -23,7 +23,12 @@ const Event = () => {
       id="event"
       className="min-h-screen flex flex-col px-5 justify-evenly items-center background-blue sm:gap-5 gap-1 pb-5"
     >
-      <SectionHead logo label="Event" className="self-start text-white" />
+      <SectionHead
+        logo
+        lightLogo
+        label="Event"
+        className="self-start text-white"
+      />
       <div className="sm:w-[70%] w-full flex flex-col p-[2vmax] bg-white gap-2">
         <Slider {...settings}>
           {event.images.map((src, index) => (

@@ -7,7 +7,7 @@ import {
   Button,
   Footer
 } from "../components/components"
-import { authIllustration } from "../assets/assets"
+import { authIllustration, registrationProcess } from "../assets/assets"
 import { IoEye, IoEyeOff } from "react-icons/io5"
 import { Link, useNavigate } from "react-router-dom"
 import authService from "../api/auth.service"
@@ -17,7 +17,6 @@ import env from "../../constants"
 import { useDispatch } from "react-redux"
 import { setData, login } from "../redux/user.slice"
 import toast from "react-hot-toast"
-import { LuHome } from "react-icons/lu"
 
 const Auth = ({ label = "signup" }) => {
   const { handleSubmit, setValue, formState, register } = useForm({
@@ -147,20 +146,13 @@ const Auth = ({ label = "signup" }) => {
             <img src={authIllustration} alt="Auth Illustration" />
           </div>
 
-          <div className="right md:w-1/2 sm:w-[70vw] w-full sm:h-full bg-white sm:pt-0 pt-4 pb-6 sm:px-8 px-6 rounded-2xl flex flex-col gap-8">
-            <div className="flex gap-5 items-center text-[3vmax]">
-              <LuHome
-                className="cursor-pointer"
-                onClick={() => {
-                  navigate("/")
-                }}
-              />
-              <SectionHead
-                blue
-                className="poppins-bold"
-                label={label == "signup" ? "Register" : "Welcome"}
-              />
-            </div>
+          <div className="right md:w-1/2 sm:w-[70vw] w-full sm:h-full bg-white sm:pt-0 pt-4 pb-6 sm:px-8 px-6 rounded-2xl flex flex-col gap-8 my-auto">
+            <SectionHead
+              blue
+              className="poppins-bold"
+              label={label == "signup" ? "Register" : "Welcome"}
+              logo
+            />
             <form noValidate className="flex flex-col gap-4">
               {label == "signup" && (
                 <>
@@ -254,7 +246,7 @@ const Auth = ({ label = "signup" }) => {
 
               <Button
                 label={label == "signup" ? "Register" : "Login"}
-                className="p-2 rounded-l text-lg text-white hover:bg-[#1d2d50] bg-[#14213D]"
+                className="p-2 rounded-lg text-lg text-white hover:bg-[#1d2d50] bg-[#14213D]"
                 onClick={handleSubmit((formData) => {
                   if (label == "signup")
                     authenticate(authService.signupAndLogin, formData)
@@ -274,14 +266,13 @@ const Auth = ({ label = "signup" }) => {
           </div>
         </div>
 
-        <span
-          className="text-sm text-white text-left cursor-pointer w-fit mt-1"
-          onClick={() => {
-            console.log("Downloading...")
-          }}
+        <a
+          className="text-sm text-yellow-400 underline text-left cursor-pointer w-fit mt-1"
+          href={registrationProcess}
+          download
         >
           Download Instructions
-        </span>
+        </a>
       </Container>
       <Footer />
     </>

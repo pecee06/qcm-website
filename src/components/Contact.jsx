@@ -20,6 +20,7 @@ const Contact = () => {
                   <MdWifiCalling3 />
                   <span>{contact.name} -</span>
                 </div>
+                <span className="text-[#FCA311]">{contact.position}</span>
                 <div className="flex gap-1">
                   <span
                     onClick={() => {
@@ -55,8 +56,8 @@ const Contact = () => {
         <div className="flex gap-4">
           <FaLocationDot className="sm:text-2xl text-lg" />
           <div className="text-[2vmax] sm:text-[1.3vmax]">
-            <p>{address.org}</p>
             <p>{address.college}</p>
+            <p>{address.locality}</p>
             <p>
               {address.city}, PIN: {address.pin}
             </p>

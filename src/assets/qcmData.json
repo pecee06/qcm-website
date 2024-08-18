@@ -1,24 +1,27 @@
 {
-  "organization": "Quizzers' Club",
+  "organization": "Quizzers' Club NIT Bhopal",
+  "acronym": "QCM",
   "about": "Quizzers' Club NIT Bhopal, the premier quizzing society at Maulana Azad National Institute of Technology (an institute of National Importance acclaimed for its exceptional academic standards and innovative spirit), is committed to elevating the art of quizzing to dazzling heights. By unraveling the complexities of quizzing, the club ignites a passion for this intellectual pursuit among both seasoned enthusiasts and newcomers. Established in February 2013 by a cohort of quizzing prodigies from MANIT, the society has orchestrated over 100 successful quizzes, establishing itself as a cornerstone of intellectual engagement and competitive excellence. The Quizzers' Club is driven by a diverse team of students from various fields, including quizzers, content writers, bloggers, executives, video editors, photographers, and web developers. Together, they collaborate to nurture, cultivate, and launch innovative ideas, fostering lifelong skills and values in the process.\nThe Quizzer's Club MANIT curates a series of intellectually stimulating events such as Anveshan, Flashback Fiesta, Abhigyan, Manthan, Quizzotica, and Vihaan, alongside a wide array of online quizzing contests. Among these, the Inter-City Quizzing Challenge stands out as a prestigious state-level quiz competition. It brings together school students from Bhopal, Indore, Gwalior, Jabalpur, and Ujjain, creating a thrilling and competitive environment. These events draw significant participation from over 100 schools and colleges across India, including passionate contenders from within MANIT itself. In addition to its quizzing events, the club offers a rich tapestry of captivating questions, intriguing facts, and diverse aptitudes, all meticulously woven into immersive and enlightening content. These elements reinforce the society's mission to deliver a compelling blend of entertainment and education in every facet of its operations. Embark on a journey into the vibrant world of Quizzing, where curiosity meets competition and intellectual adventure awaits at every turn!",
   "contacts": [
     {
       "name": "Nishchal Prajapati",
       "no": "8602012570",
+      "position": "President",
       "linkedin": "https://www.linkedin.com/in/iamnishchal25"
     },
     {
       "name": "Harshita Nehra",
       "no": "8962188298",
+      "position": "Vice President",
       "linkedin": "https://www.linkedin.com/in/harshita-nehra-78bbb322a"
     }
   ],
   "email": "quizzersclubmanit@gmail.com",
   "address": {
-    "org": "Quizzers' Club NIT Bhopal",
     "college": "Maulana Azad National Institute of Technology",
     "city": "Bhopal",
     "pin": "462003",
+    "locality": "MANIT square, Near Mata Mandir",
     "gmap": "https://www.google.com/maps/place/LRC+NIT Bhopal/@23.2166489,77.4067549,17z/data=!3m1!4b1!4m6!3m5!1s0x397c43accb2f81f9:0x603cfa000db72484!8m2!3d23.216644!4d77.4093298!16s%2Fg%2F11t89yzl7g?authuser=0&entry=ttu"
   },
   "facebook": "https://www.facebook.com/quizzersclub",
@@ -26,6 +29,15 @@
   "linkedin": "https://www.linkedin.com/company/quizzersclub/",
   "youtube": "https://www.youtube.com/@quizzersclub/",
   "eventDetails": [
+    {
+      "id": "flashback-fiesta",
+      "title": "Flashback Fiesta",
+      "desc": "A Nostalgic Success at NIT-Bhopal",
+      "content": "Feel the essence of nostalgic memories through Flashback Fiesta organised by Quizzers Club NIT Bhopal held during Technosearch which revives every fun memory you had . With over 700+ registrations , this event delighted everyone and tested their adaptability and mindfulness.\nThis event consists of three spellbinding events : Nostalgic Spin , Funky Filp and Vintage Walk . These  fascinating games make a way to your childhood. Here the winners meet winners to get the final winner.\nThese are not just events but an enchanting experience to your soul.\nFlashback Fiesta is the heart of Technosearch, bridging the past with the present. Come relive those incredible moments with us as we celebrate the victories of cordiality and intellect.",
+      "cover": "/events/techno/main.JPG",
+      "images": ["/events/techno/1.JPG", "/events/techno/2.JPG"],
+      "insta": "https://www.instagram.com/p/CzguIFAo2IF/"
+    },
     {
       "id": "iqc",
       "title": "Inter-City Quizzing Challenge",
@@ -55,15 +67,6 @@
       "insta": "https://www.instagram.com/p/CzWWLFlv1zP/?img_index=1"
     },
     {
-      "id": "flashback-fiesta",
-      "title": "Technosearch",
-      "desc": "A Nostalgic Success at NIT-Bhopal",
-      "content": "Feel the essence of nostalgic memories through Flashback Fiesta organised by Quizzers Club NIT Bhopal held during Technosearch which revives every fun memory you had . With over 700+ registrations , this event delighted everyone and tested their adaptability and mindfulness.\nThis event consists of three spellbinding events : Nostalgic Spin , Funky Filp and Vintage Walk . These  fascinating games make a way to your childhood. Here the winners meet winners to get the final winner.\nThese are not just events but an enchanting experience to your soul.\nFlashback Fiesta is the heart of Technosearch, bridging the past with the present. Come relive those incredible moments with us as we celebrate the victories of cordiality and intellect.",
-      "cover": "/events/techno/main.JPG",
-      "images": ["/events/techno/1.JPG", "/events/techno/2.JPG"],
-      "insta": "https://www.instagram.com/p/CzguIFAo2IF/"
-    },
-    {
       "id": "anveshan",
       "title": "Anveshan",
       "desc": "Where Intellect Meets Adventure",
@@ -85,6 +88,30 @@
         "/events/vihaan/4.JPG",
         "/events/vihaan/5.JPG",
         "/events/vihaan/6.JPG"
+      ],
+      "insta": "https://www.instagram.com/p/C5naDnLvcN5/"
+    },
+    {
+      "id": "manthan",
+      "title": "Manthan",
+      "desc": "Manthan is the flagship event of the Quizzers' Club at NIT Bhopal, bringing together passionate quizzers from across India for a competitive and enriching quizzing experience.",
+      "content": "Manthan is the flagship event of the Quizzers' Club of NIT Bhopal  which stands as a beacon of intellectual challenge and camaraderie, drawing passionate quizzers from every corner of the country. The event is designed to foster a quizzing culture and bring together quizzing enthusiasts.\nThe competition typically begins with preliminary rounds conducted in colleges across major cities in Madhya Pradesh, ensuring widespread participation. Those who emerge victorious in these early battles advance to the grand finale, where they face off against top teams from cities like Gwalior, Indore, Jabalpur, and Bhopal. The final round is a multi-round quiz that includes themes like national heroes, visual quizzes, buzzer rounds, and rapid-fire questions. The competition culminates with the winners receiving prizes that include cash, branded t-shirts, food vouchers, and other goodies.\nManthan not only serves as a competitive platform but also as a learning experience for both participants and the audience. Manthan is an enriching experience for everyone involved, from participants to spectators, fostering learning and forging connections that last far beyond the event itself.",
+      "cover": "/events/manthan/main.JPG",
+      "images": [
+        "/events/manthan/gwalior/1.JPG",
+        "/events/manthan/gwalior/2.JPG",
+        "/events/manthan/gwalior/3.JPG",
+        "/events/manthan/gwalior/4.JPG",
+        "/events/manthan/gwalior/5.JPG",
+        "/events/manthan/jabalpur/1.jpg",
+        "/events/manthan/jabalpur/2.jpg",
+        "/events/manthan/jabalpur/3.jpg",
+        "/events/manthan/jabalpur/4.jpg",
+        "/events/manthan/jabalpur/5.jpg",
+        "/events/manthan/jabalpur/6.jpg",
+        "/events/manthan/indore/1.jpg",
+        "/events/manthan/indore/2.jpg",
+        "/events/manthan/indore/3.jpg"
       ],
       "insta": "https://www.instagram.com/p/C5naDnLvcN5/"
     }
@@ -126,16 +153,6 @@
       ]
     },
     {
-      "category": "Prize Sponsor",
-      "brands": [
-        {
-          "brand": "M.P. State Electronics Development Corporation Ltd.",
-          "logo": "/sponsors/mpsedc.png",
-          "website": "https://mpsedc.mp.gov.in/"
-        }
-      ]
-    },
-    {
       "category": "Gifting Sponsor",
       "brands": [
         {
@@ -156,76 +173,76 @@
         }
       ]
     },
-    {
-      "category": "Design Partner",
-      "brands": [
-        {
-          "brand": "Canva",
+    [
+      {
+        "category": "Prize Sponsor",
+        "brand": {
+          "name": "M.P. State Electronics Development Corporation Ltd.",
+          "logo": "/sponsors/mpsedc.png",
+          "website": "https://mpsedc.mp.gov.in/"
+        }
+      },
+      {
+        "category": "Design Partner",
+        "brand": {
+          "name": "Canva",
           "logo": "/sponsors/canva.png",
           "website": "https://www.canva.com/en_in/"
         }
-      ]
-    },
-    {
-      "category": "Snacks Partner",
-      "brands": [
-        {
-          "brand": "Unibic",
+      }
+    ],
+    [
+      {
+        "category": "Snacks Partner",
+        "brand": {
+          "name": "Unibic",
           "logo": "/sponsors/unibic.png",
           "website": "https://www.unibicfoods.com/"
         }
-      ]
-    },
-    {
-      "category": "Hospitality Partner",
-      "brands": [
-        {
-          "brand": "Easy My Trip",
-          "logo": "/sponsors/ease-my-trip.png",
-          "website": "https://www.easemytrip.com/"
-        }
-      ]
-    },
-    {
-      "category": "Munching Partner",
-      "brands": [
-        {
-          "brand": "Cornitos",
+      },
+      {
+        "category": "Munching Partner",
+        "brand": {
+          "name": "Cornitos",
           "logo": "/sponsors/cornitos.png",
           "website": "https://www.cornitos.in/"
         }
-      ]
-    },
-    {
-      "category": "Health & Hygiene Partner",
-      "brands": [
-        {
-          "brand": "My Glamm",
+      },
+      {
+        "category": "Health & Hygiene Partner",
+        "brand": {
+          "name": "My Glamm",
           "logo": "/sponsors/myglamm.png",
           "website": "https://www.myglamm.com/"
         }
-      ]
-    },
-    {
-      "category": "Travel Partner",
-      "brands": [
-        {
-          "brand": "Abhi Bus",
+      }
+    ],
+    [
+      {
+        "category": "Hospitality Partner",
+        "brand": {
+          "name": "Easy My Trip",
+          "logo": "/sponsors/ease-my-trip.png",
+          "website": "https://www.easemytrip.com/"
+        }
+      },
+      {
+        "category": "Travel Partner",
+        "brand": {
+          "name": "Abhi Bus",
           "logo": "/sponsors/abhibus.png",
           "website": "https://www.abhibus.com/"
         }
-      ]
-    },
-    {
-      "category": "Education Partner",
-      "brands": [
-        {
-          "brand": "Quill Bot",
+      },
+      {
+        "category": "Education Partner",
+        "brand": {
+          "name": "Quill Bot",
           "logo": "/sponsors/quillbot.png",
           "website": "https://quillbot.com/"
         }
-      ]
-    }
+      }
+    ]
   ],
   "team": {
     "3": [
@@ -477,7 +494,7 @@
       "question": "What is Quizzers Club MANIT?",
       "answer": "Quizzers Club MANIT is a student-run organization dedicated to promoting a quizzing culture within MANIT and across country. We organize regular quiz competitions and provide a platform for students to enhance their knowledge across various subjects."
     },
-      {
+    {
       "question": "What is IQC?",
       "answer": " The Inter-City Quizzing Challenge (IQC) is a prestigious quiz competition designed to bring together some of the brightest young minds from schools across five prominent cities: Bhopal, Jabalpur, Indore, Gwalior, and Ujjain. This event provides a platform for students to showcase their knowledge, critical thinking, and quick decision-making skills while competing against their peers from different cities.\n Structure of the Competition : \n • Online Qualifiers: The journey begins with an online qualifier round, this round serves as the initial filter to identify the top-performing teams or individuals who will move on to represent their schools in the next stage.  \n • City Qualifiers: The selected team from the online qualifiers advance to the city-level competition. Each city hosts its own qualifying round, where participants engage in head-to-head quiz battles. The goal here is to determine the top team who will earn the honor of representing their city in the grand finale. \n • Grand Finale: The grand finale brings together the best of the best from each city, pitting them against each other in a highly competitive and intellectually stimulating environment. This final stage is where the ultimate champions are crowned, earning the title of the top quizzers in the entire competition. "
     },
@@ -496,6 +513,7 @@
   ],
   "instructions": {
     "general": {
+      "Don'ts": "Exit fullscreen mode, Change window - These will lead to immediate disqualification",
       "Eligibility": "The quiz is open to all registered participants. Ensure you have registered before the deadline",
       "Quiz Timing": "The quiz will start promptly at [start time] on [date]. Ensure you are logged in and ready by this time",
       "Total Duration": "The total quiz duration is 40 minutes",
@@ -510,7 +528,7 @@
     "section-2": {
       "time": 20,
       "questions": 20,
-      "type": "SCQ (15) & MCQ (5)",
+      "type": "Single Correct Questions (15) & Multi Correct Questions (5)",
       "marking-scheme": "+4 for correct, 0 for incorrect"
     },
     "section-3": {

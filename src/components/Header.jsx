@@ -50,7 +50,7 @@ const Header = () => {
     >
       <div
         ref={headRef}
-        className="flex py-1 sm:justify-around justify-between items-center rounded-3xl overflow-y-hidden sm:w-[75vw] w-[90vw] px-8 mt-3"
+        className="flex py-1 sm:justify-around justify-between items-center rounded-3xl overflow-y-hidden lg:w-[75vw] w-[90vw] px-8 mt-3"
         style={{ borderRadius: "3rem" }}
       >
         <Logo

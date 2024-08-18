@@ -27,21 +27,31 @@ const Instructions = () => {
   ]
 
   return (
-    <Container className="bg-yellow-500 flex justify-center items-center min-h-screen sm:px-2">
+    <Container
+      className="flex justify-center items-center min-h-screen sm:px-2"
+      style={{
+        background: 'url("/image-quiz-bg.png") no-repeat center center/cover'
+      }}
+    >
       <div className="bg-white p-10 sm:rounded-lg shadow-lg sm:w-3/4 min-h-1/2 flex sm:flex-row flex-col gap-5 items-center">
         <div className="sm:w-1/2 flex flex-col sm:gap-5">
-          <h1 className="text-xl font-semibold">Hey {data.name},</h1>
-          <h2 className="text-2xl font-bold mt-2">Welcome to the Quiz</h2>
-          <ul className="text-gray-700 text-sm leading-relaxed">
+          <h1 className="text-xl font-semibold">
+            Hey <span className="uppercase">{data.name}</span>, Welcome
+          </h1>
+          <h2 className="text-2xl font-bold mt-2">
+            Read the following Details Carefully
+          </h2>
+          <ul className="text-gray-700 leading-relaxed">
             {instrs.map((obj, index) => (
               <li key={index}>
-                <strong>{obj.key}:</strong> {obj.value}
+                <strong className="text-sm">{obj.key}:</strong>
+                <span className="text-emerald-600 text-lg"> {obj.value}</span>
               </li>
             ))}
           </ul>
         </div>
         <div className="sm:w-1/2 flex flex-col gap-5">
-          <h2 className="text-xl font-semibold">Instructions</h2>
+          <h2 className="text-xl font-semibold">General Instructions</h2>
           <hr />
           <ul className="mt-2 text-gray-700 leading-relaxed">
             {Object.keys(instructions.general).map((key, index) => (

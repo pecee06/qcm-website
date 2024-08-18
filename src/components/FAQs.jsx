@@ -3,15 +3,19 @@ import { qna } from "../assets/qcmData.json"
 
 const FAQs = () => {
   return (
-    <>
-      <hr />
-      <Container className="flex flex-col py-10 gap-4">
-        <h3 className="poppins-bold sm:text-[2.5vmax] text-[3vmax] text-center w-full">
+    <Container
+      className="min-h-screen flex flex-col justify-center items-center"
+      style={{
+        background: 'url("/bg-gradient.png") no-repeat center center/cover'
+      }}
+    >
+      <div className="flex flex-col gap-4 bg-white py-4 rounded sm:w-3/4 w-11/12">
+        <h3 className="poppins-bold sm:text-[2.5vmax] text-[3vmax] text-center">
           Frequently Asked Questions
         </h3>
         <Accordion qna={qna} />
-      </Container>
-    </>
+      </div>
+    </Container>
   )
 }
 

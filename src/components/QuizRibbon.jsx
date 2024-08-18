@@ -50,7 +50,7 @@ const QuizRibbon = ({ quiz = {} }) => {
       <p
         className={`sm:text-xl w-[90%] continue-text ${inActive && "line-through"}`}
       >
-        Q. {quiz.question} ?
+        Q. {quiz.question}
       </p>
       <div className="flex">
         {inActive ? (
