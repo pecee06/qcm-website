@@ -25,6 +25,7 @@ import UserBtn from "./UserBtn"
 import Map from "./Map"
 import Accordion from "./Accordion"
 import FAQs from "./FAQs"
+import Popup from "./Popup"
 
 export {
   Header,
@@ -53,5 +54,6 @@ export {
   UserBtn,
   Map,
   Accordion,
-  FAQs
+  FAQs,
+  Popup
 }

@@ -35,7 +35,7 @@ const QuizRibbon = ({ quiz = {} }) => {
       })
       .catch((error) => {
         console.error(error)
-        toast.error(error.message)
+        toast(error.message)
       })
   }, [])
 
@@ -86,16 +86,16 @@ const QuizRibbon = ({ quiz = {} }) => {
                   })
                   .then(() => {
                     dispatch(deleteQuiz(quiz.$id))
-                    toast.success("Quiz Deleted Successfully")
+                    toast("Quiz Deleted Successfully")
                   })
                   .catch((error) => {
                     console.error(error)
-                    toast.error(error.message)
+                    toast(error.message)
                   })
               })
               .catch((error) => {
                 console.error(error)
-                toast.error(error.message)
+                toast(error.message)
               })
           }}
         />

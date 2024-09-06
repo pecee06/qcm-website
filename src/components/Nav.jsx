@@ -102,12 +102,19 @@ const Nav = forwardRef(({ className, offModal = () => {} }, ref) => {
           )}
         </div>
         {loggedIn ? (
-          <UserBtn
-            name={name}
-            showDropDown={showDropDown}
-            setShowDropDown={setShowDropDown}
-            ref={dropDownRef}
-          />
+          <div className="flex sm:flex-row flex-col gap-2">
+            <Button
+              label="Play Quiz"
+              onClick={() => navigate("/quiz/instr/1")}
+              className="poppins-regular flex items-center md:gap-2 sm:bg-[#E5E5E5] rounded-lg md:p-2 justify-center gap-3 py-1 overflow-y-hidden sm:border-none border border-black p-2"
+            />
+            <UserBtn
+              name={name}
+              showDropDown={showDropDown}
+              setShowDropDown={setShowDropDown}
+              ref={dropDownRef}
+            />
+          </div>
         ) : (
           <Button
             label="Signup"
@@ -118,7 +125,7 @@ const Nav = forwardRef(({ className, offModal = () => {} }, ref) => {
               ...(window.innerWidth < 768 && { marginTop: "10px" })
             }}
             onClick={() => {
-              navigate("signup")
+              navigate("register")
             }}
           />
         )}

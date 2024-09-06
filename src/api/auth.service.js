@@ -67,6 +67,16 @@ class Auth {
   async verifyToken({ userId, secret }) {
     try {
       const res = await account.updatePhoneVerification(userId, secret)
+      return res
+    } catch (error) {
+      throw error
+    }
+  }
+
+  async resetPassword({ oldPass, newPass }) {
+    try {
+      const res = await account.updatePassword(newPass, oldPass)
+      return res
     } catch (error) {
       throw error
     }

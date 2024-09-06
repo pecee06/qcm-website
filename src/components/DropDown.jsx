@@ -29,13 +29,6 @@ const DropDown = forwardRef(({ user, visible = false }, ref) => {
       visible: true
     },
     {
-      label: "Play Quiz",
-      f: () => {
-        navigate("/quiz/instr/1")
-      },
-      visible: true
-    },
-    {
       label: "Add Quiz",
       f: () => {
         navigate("/admin/add")

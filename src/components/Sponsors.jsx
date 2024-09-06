@@ -1,3 +1,5 @@
+import env from "../../constants"
+import storeService from "../api/store.service"
 import { sponsors } from "../assets/qcmData.json"
 import { Container, SectionHead } from "./components"
 
@@ -13,7 +15,7 @@ const Sponsors = () => {
           if (!Array.isArray(sponsor))
             return (
               <div key={index}>
-                <p className="text-3xl p-1 text-center font-semibold bg-[#187b93] text-[#fff]">
+                <p className="text-3xl p-1 text-center font-semibold bg-[#2B7966] text-[#fff]">
                   {sponsor.category}
                 </p>
                 <div className="flex justify-evenly items-center flex-wrap">
@@ -25,7 +27,10 @@ const Sponsors = () => {
                       className="h-[20vh] mx-4 sm:mx-0 flex justify-center items-center border-2 border-black p-1 my-8 shadow-[10px_10px_18px_-1px_rgba(88,163,232,1)] hover:scale-110 transition-all duration-300"
                     >
                       <img
-                        src={obj.logo}
+                        src={storeService.fetchFilePreview({
+                          fileId: obj.logo,
+                          bucketId: env.publicBucketId
+                        })}
                         alt={`${obj.brand} logo`}
                         className="max-h-full "
                       />
@@ -44,7 +49,7 @@ const Sponsors = () => {
                 key={index + idx + Date.now()}
                 className="flex flex-col items-center"
               >
-                <p className="text-3xl w-full p-1 text-center font-semibold bg-[#187b93] text-[#fff]">
+                <p className="text-3xl w-full p-1 text-center font-semibold bg-[#2B7966] text-[#fff]">
                   {obj.category}
                 </p>
                 <a
@@ -53,7 +58,10 @@ const Sponsors = () => {
                   className="h-[20vh] mx-4 sm:mx-0 flex justify-center items-center border-2 border-black p-1 my-8 shadow-[10px_10px_18px_-1px_rgba(88,163,232,1)] hover:scale-110 transition-all duration-300 w-fit"
                 >
                   <img
-                    src={obj.brand.logo}
+                    src={storeService.fetchFilePreview({
+                      fileId: obj.brand.logo,
+                      bucketId: env.publicBucketId
+                    })}
                     alt={`${obj.brand.name} logo`}
                     className="max-h-full "
                   />

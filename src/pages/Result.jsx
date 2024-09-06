@@ -1,8 +1,9 @@
 import "./pages.css"
-import { Link } from "react-router-dom"
 import { Container } from "../components/components"
+import { useParams } from "react-router-dom"
 
 const Result = () => {
+  const { msg } = useParams()
   return (
     <Container
       className="h-screen flex flex-col justify-center items-center gap-4 londrina-solid-regular"
@@ -11,11 +12,11 @@ const Result = () => {
       }}
     >
       <h1 className="text-[5vmax] text-[#FCA311] border border-white p-2 rounded-lg">
-        Quiz Submitted Successfully
+        {msg}
       </h1>
-      <Link to="/" className="text-white underline text-lg">
+      <a href="/" className="text-white underline text-lg">
         Back to home page
-      </Link>
+      </a>
     </Container>
   )
 }

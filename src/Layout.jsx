@@ -2,9 +2,13 @@ import { Outlet } from "react-router-dom"
 import { Toaster } from "react-hot-toast"
 
 const Layout = () => {
-  // document.documentElement.addEventListener("keydown", (e) => {
-  //   if (e.code == "F12") e.preventDefault()
-  // })
+  document.addEventListener("copy", (e) => {
+    e.preventDefault()
+  })
+
+  document.addEventListener("cut", (e) => {
+    e.preventDefault()
+  })
 
   return (
     <>

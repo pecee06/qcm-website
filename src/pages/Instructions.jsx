@@ -9,12 +9,16 @@ const Instructions = () => {
   const { data } = useSelector((state) => state.user)
   const instrs = [
     {
-      key: "Quiz Duration",
+      key: "Duration",
       value: `${timeLimits[sec - 1]} minutes`
     },
     {
       key: "Section",
       value: sec
+    },
+    {
+      key: "Question Count",
+      value: instructions[`section-${sec}`].questions
     },
     {
       key: "Problem Type",
@@ -39,7 +43,7 @@ const Instructions = () => {
             Hey <span className="uppercase">{data.name}</span>, Welcome
           </h1>
           <h2 className="text-2xl font-bold mt-2">
-            Read the following Details Carefully
+            Read The Following Details Carefully
           </h2>
           <ul className="text-gray-700 leading-relaxed">
             {instrs.map((obj, index) => (

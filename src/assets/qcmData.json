@@ -1,7 +1,10 @@
 {
   "organization": "Quizzers' Club NIT Bhopal",
   "acronym": "QCM",
-  "about": "Quizzers' Club NIT Bhopal, the premier quizzing society at Maulana Azad National Institute of Technology (an institute of National Importance acclaimed for its exceptional academic standards and innovative spirit), is committed to elevating the art of quizzing to dazzling heights. By unraveling the complexities of quizzing, the club ignites a passion for this intellectual pursuit among both seasoned enthusiasts and newcomers. Established in February 2013 by a cohort of quizzing prodigies from MANIT, the society has orchestrated over 100 successful quizzes, establishing itself as a cornerstone of intellectual engagement and competitive excellence. The Quizzers' Club is driven by a diverse team of students from various fields, including quizzers, content writers, bloggers, executives, video editors, photographers, and web developers. Together, they collaborate to nurture, cultivate, and launch innovative ideas, fostering lifelong skills and values in the process.\nThe Quizzer's Club MANIT curates a series of intellectually stimulating events such as Anveshan, Flashback Fiesta, Abhigyan, Manthan, Quizzotica, and Vihaan, alongside a wide array of online quizzing contests. Among these, the Inter-City Quizzing Challenge stands out as a prestigious state-level quiz competition. It brings together school students from Bhopal, Indore, Gwalior, Jabalpur, and Ujjain, creating a thrilling and competitive environment. These events draw significant participation from over 100 schools and colleges across India, including passionate contenders from within MANIT itself. In addition to its quizzing events, the club offers a rich tapestry of captivating questions, intriguing facts, and diverse aptitudes, all meticulously woven into immersive and enlightening content. These elements reinforce the society's mission to deliver a compelling blend of entertainment and education in every facet of its operations. Embark on a journey into the vibrant world of Quizzing, where curiosity meets competition and intellectual adventure awaits at every turn!",
+  "about": {
+    "manit": "Maulana Azad National Institute of Technology, also known as MANIT, is an Institute of National Importance under the Ministry of Education, Government of India. It is named after Independent India's first Minister of Education, scholar and activist Maulana Azad. Situated among the verdant hills of Bhopal, the institute houses a huge campus and is widely recognized for nurturing remarkable engineers, innovative technologists, creative architects, and planners who have made substantial contributions across various fields. The engineering and the architectural courses are ranked under 75 and 20, respectively as per NIRF 2024. The institute thrives with a profusion of activities, including technical fests, cultural events, sports competitions, and numerous clubs, cultivating a dynamic, engaging, and interactive space beyond the realm of academics",
+    "qcm": "Quizzer's Club NIT Bhopal (QCM), formed in February 2013 is the official quizzing society of Maulana Azad National Institute of Technology (MANIT) known for spreading quizzing culture among the youth. The society firmly abides by its motto to stem passion towards cultivating knowledge and celebrating learning among the enthusiasts. The Quizzers' Club, all equipped with a skillful team of quizzers, content writers, bloggers, editors to web developers ; instils a  zeal for innovation into the air through its stimulating events including Inter-City Quizzing Challenge, Anveshan, Flashback Fiesta, Abhigyan, Manthan, Quizzotica, Vihaan and a wide array of quizzing contests. Commending QCM's prestigious competition and extravaganza is the  Inter-City Quizzing Challenge which brings together passionate contenders from Bhopal, Indore, Gwalior, Jabalpur and Ujjain. These events draw significant participation from over 100 institutions, offer a rich tapestry of captivating questions, intriguing facts and diverse aptitudes , all meticulously woven into enlightening content. Having duly organized more than 200 quizzes to date, QCM also focuses on engaging activities like debates, group discussions, treasure hunts and numerous other. The exclusive events ,funded with diverse benevolent sponsors, are designed to target Indian youth for creating and implementing skills and ethics into the brightest of minds"
+  },
   "contacts": [
     {
       "name": "Nishchal Prajapati",
@@ -33,28 +36,46 @@
       "id": "flashback-fiesta",
       "title": "Flashback Fiesta",
       "desc": "A Nostalgic Success at NIT-Bhopal",
-      "content": "Feel the essence of nostalgic memories through Flashback Fiesta organised by Quizzers Club NIT Bhopal held during Technosearch which revives every fun memory you had . With over 700+ registrations , this event delighted everyone and tested their adaptability and mindfulness.\nThis event consists of three spellbinding events : Nostalgic Spin , Funky Filp and Vintage Walk . These  fascinating games make a way to your childhood. Here the winners meet winners to get the final winner.\nThese are not just events but an enchanting experience to your soul.\nFlashback Fiesta is the heart of Technosearch, bridging the past with the present. Come relive those incredible moments with us as we celebrate the victories of cordiality and intellect.",
+      "content": "Feel the essence of nostalgic memories through Flashback Fiesta organised by Quizzers Club NIT Bhopal held during Technosearch which revives every fun memory you had. With over 700+ registrations , this event delighted everyone and tested their adaptability and mindfulness. This event consists of three spellbinding events : Nostalgic Spin, Funky Filp and Vintage Walk. These fascinating games make a way to your childhood. Here the winners meet winners to get the final winner.\nThese are not just events but an enchanting experience to your soul. Flashback Fiesta is the heart of Technosearch, bridging the past with the present. Come relive those incredible moments with us as we celebrate the victories of cordiality and intellect.",
       "cover": "/events/techno/main.JPG",
-      "images": ["/events/techno/1.JPG", "/events/techno/2.JPG"],
+      "images": [
+        "/events/techno/1.JPG",
+        "/events/techno/2.JPG",
+        "/events/techno/3.jpeg",
+        "/events/techno/4.jpeg",
+        "/events/techno/5.JPG",
+        "/events/techno/6.JPG",
+        "/events/techno/7.JPG",
+        "/events/techno/8.JPG"
+      ],
       "insta": "https://www.instagram.com/p/CzguIFAo2IF/"
     },
     {
       "id": "iqc",
       "title": "Inter-City Quizzing Challenge",
       "desc": "Madhya Pradesh's largest school quizzing event",
-      "content": "Instilling enthusiasm and zeal into the atmos of QCM, “Inter-City Quizzing Challenge” delves into testing the brightest of minds. Organized over three dynamic rounds, the event signifies the celebration of knowledge, and the spirit of camaraderie among students.\nThe competition kicks off with the Round 1 which is an online test, followed by shortlisting the top 4 from each school to proceed to the Round 2, city championship. And finally comes the last round, wherein the best from each city come together to showcase their sportsmanship and proficiency.\nPreviously in 2023, with the unwavering support of some of the most highly valued sponsors like NTPC, BPCL, LIC, MP Khadi Gramodhyog, and Unibic, the event opened with 2000+ registrations with over 100 schools from Bhopal, Gwalior, Indore, Jabalpur, and Ujjain, boosting the competition among the young minds. The grand finale was successfully held in Bhopal, garnering a significant number of people, developing a socially interactive environment, and strengthening collaboration among students, volunteers and other delegates.\nDesigned to showcase intellectual prowess and an exuberance towards learning, the invigorating event also promises gripping rewards and recognition. IQC indeed left an indelible mark on the quizzing landscape of Madhya Pradesh, raising up the spirits of competition even higher. Step right up to grab a chance to tune into IQC's symphony of challenges and battles!",
+      "content": "Instilling enthusiasm and zeal into the atmos of QCM, Inter-City Quizzing Challenge delves into testing the brightest of minds. Organized over three dynamic rounds, the event signifies the celebration of knowledge, and the spirit of camaraderie among students. The competition kicks off with the Round 1 which is an online test, followed by shortlisting the top 4 from each school to proceed to the Round 2, city championship. And finally comes the last round, wherein the best from each city come together to showcase their sportsmanship and proficiency\nPreviously in 2023, with the unwavering support of some of the most highly valued sponsors like NTPC, BPCL, LIC, MP Khadi Gramodhyog, and Unibic, the event opened with 2000+ registrations with over 100 schools from Bhopal, Gwalior, Indore, Jabalpur, and Ujjain, boosting the competition among the young minds. The grand finale was successfully held in Bhopal, garnering a significant number of people, developing a socially interactive environment, and strengthening collaboration among students, volunteers and other delegates. Designed to showcase intellectual prowess and an exuberance towards learning, the invigorating event also promises gripping rewards and recognition. IQC indeed left an indelible mark on the quizzing landscape of Madhya Pradesh, raising up the spirits of competition even higher. Step right up to grab a chance to tune into IQC's symphony of challenges and battles!",
       "cover": "/events/iqc/main.JPG",
       "images": [
         "/events/iqc/finale/1.JPG",
         "/events/iqc/finale/2.JPG",
         "/events/iqc/finale/3.JPG",
         "/events/iqc/finale/4.JPG",
+        "/events/iqc/bhopal/1.jpg",
+        "/events/iqc/bhopal/2.jpeg",
+        "/events/iqc/indore/1.jpg",
+        "/events/iqc/indore/2.jpg",
+        "/events/iqc/indore/3.jpg",
+        "/events/iqc/indore/4.jpg",
         "/events/iqc/ujjain/1.JPG",
         "/events/iqc/ujjain/2.JPG",
         "/events/iqc/ujjain/3.JPG",
         "/events/iqc/ujjain/4.JPG",
         "/events/iqc/ujjain/5.JPG",
         "/events/iqc/ujjain/6.JPG",
+        "/events/iqc/ujjain/7.jpg",
+        "/events/iqc/ujjain/8.jpg",
+        "/events/iqc/ujjain/9.jpg",
         "/events/iqc/jabalpur/1.JPG",
         "/events/iqc/jabalpur/2.JPG",
         "/events/iqc/jabalpur/3.JPG",
@@ -62,7 +83,14 @@
         "/events/iqc/jabalpur/5.JPG",
         "/events/iqc/jabalpur/6.JPG",
         "/events/iqc/jabalpur/7.JPG",
-        "/events/iqc/gwalior/1.JPG"
+        "/events/iqc/jabalpur/8.jpeg",
+        "/events/iqc/jabalpur/9.jpeg",
+        "/events/iqc/jabalpur/10.jpeg",
+        "/events/iqc/jabalpur/11.jpeg",
+        "/events/iqc/gwalior/1.JPG",
+        "/events/iqc/gwalior/2.jpeg",
+        "/events/iqc/gwalior/3.jpeg",
+        "/events/iqc/gwalior/4.jpeg"
       ],
       "insta": "https://www.instagram.com/p/CzWWLFlv1zP/?img_index=1"
     },
@@ -70,9 +98,14 @@
       "id": "anveshan",
       "title": "Anveshan",
       "desc": "Where Intellect Meets Adventure",
-      "content": "Anveshan, organized by the Quizzers' Club at NIT Bhopal during Maffick, is an exhilarating treasure hunt that has become a highlight of the festival. Drawing a crowd of 5,000, this event is a true test of intellect, teamwork, and adventure.\nThe competition begins with a lively first round featuring four engaging games that challenge participants' creativity and problem-solving skills. From these, the top 10 teams emerge to advance to the main event—the treasure hunt.\nIn the second round, these teams embark on a thrilling quest across the campus, deciphering clues and navigating obstacles in a race to find the hidden treasure. The hunt culminates in an intense final showdown, where the winning team is crowned.\nAnveshan is more than just a competition; it's an adventure that captures the spirit of Maffic, leaving participants and spectators with unforgettable memories.",
+      "content": "Anveshan, organized by the Quizzers' Club at NIT Bhopal during Maffick, is an exhilarating treasure hunt that has become a highlight of the festival. Drawing a crowd of 5,000, this event is a true test of intellect, teamwork, and adventure.\nThe competition begins with a lively first round featuring four engaging games that challenge participants' creativity and problem-solving skills. From these, the top 10 teams emerge to advance to the main event—the treasure hunt. In the second round, these teams embark on a thrilling quest across the campus, deciphering clues and navigating obstacles in a race to find the hidden treasure. The hunt culminates in an intense final showdown, where the winning team is crowned. Anveshan is more than just a competition; it's an adventure that captures the spirit of Maffic, leaving participants and spectators with unforgettable memories.",
       "cover": "/events/anveshan/main.JPG",
-      "images": ["/events/anveshan/1.JPG", "/events/anveshan/2.JPG"],
+      "images": [
+        "/events/anveshan/1.JPG",
+        "/events/anveshan/2.JPG",
+        "/events/anveshan/3.jpeg",
+        "/events/anveshan/4.jpeg"
+      ],
       "insta": ""
     },
     {
@@ -87,7 +120,11 @@
         "/events/vihaan/3.JPG",
         "/events/vihaan/4.JPG",
         "/events/vihaan/5.JPG",
-        "/events/vihaan/6.JPG"
+        "/events/vihaan/6.JPG",
+        "/events/vihaan/7.jpeg",
+        "/events/vihaan/8.jpeg",
+        "/events/vihaan/9.jpeg",
+        "/events/vihaan/10.jpeg"
       ],
       "insta": "https://www.instagram.com/p/C5naDnLvcN5/"
     },
@@ -95,7 +132,7 @@
       "id": "manthan",
       "title": "Manthan",
       "desc": "Manthan is the flagship event of the Quizzers' Club at NIT Bhopal, bringing together passionate quizzers from across India for a competitive and enriching quizzing experience.",
-      "content": "Manthan is the flagship event of the Quizzers' Club of NIT Bhopal  which stands as a beacon of intellectual challenge and camaraderie, drawing passionate quizzers from every corner of the country. The event is designed to foster a quizzing culture and bring together quizzing enthusiasts.\nThe competition typically begins with preliminary rounds conducted in colleges across major cities in Madhya Pradesh, ensuring widespread participation. Those who emerge victorious in these early battles advance to the grand finale, where they face off against top teams from cities like Gwalior, Indore, Jabalpur, and Bhopal. The final round is a multi-round quiz that includes themes like national heroes, visual quizzes, buzzer rounds, and rapid-fire questions. The competition culminates with the winners receiving prizes that include cash, branded t-shirts, food vouchers, and other goodies.\nManthan not only serves as a competitive platform but also as a learning experience for both participants and the audience. Manthan is an enriching experience for everyone involved, from participants to spectators, fostering learning and forging connections that last far beyond the event itself.",
+      "content": "Manthan is the flagship event of the Quizzers' Club of NIT Bhopal  which stands as a beacon of intellectual challenge and camaraderie, drawing passionate quizzers from every corner of the country. The event is designed to foster a quizzing culture and bring together quizzing enthusiasts.\nThe competition typically begins with preliminary rounds conducted in colleges across major cities in Madhya Pradesh, ensuring widespread participation. Those who emerge victorious in these early battles advance to the grand finale, where they face off against top teams from cities like Gwalior, Indore, Jabalpur, and Bhopal. The final round is a multi-round quiz that includes themes like national heroes, visual quizzes, buzzer rounds, and rapid-fire questions. The competition culminates with the winners receiving prizes that include cash, branded t-shirts, food vouchers, and other goodies. Manthan not only serves as a competitive platform but also as a learning experience for both participants and the audience. Manthan is an enriching experience for everyone involved, from participants to spectators, fostering learning and forging connections that last far beyond the event itself.",
       "cover": "/events/manthan/main.JPG",
       "images": [
         "/events/manthan/gwalior/1.JPG",
@@ -118,16 +155,36 @@
   ],
   "sponsors": [
     {
+      "category": "Title Sponsor",
+      "brands": [
+        {
+          "brand": "Tata Power",
+          "logo": "66da12ed002d9e039026",
+          "website": "https://www.tatapower.com/"
+        },
+        {
+          "brand": "The Hindu",
+          "logo": "66da17880034e3f34304",
+          "website": "https://www.thehindu.com/"
+        }
+      ]
+    },
+    {
       "category": "Co-Powered by",
       "brands": [
         {
+          "brand": "State Bank of India",
+          "logo": "66da1527002e51b12cab",
+          "website": "https://www.onlinesbi.sbi/"
+        },
+        {
           "brand": "Bharat Petroleum Corporation",
-          "logo": "/sponsors/bpcl.jpeg",
+          "logo": "66da128f002c0572ca3e",
           "website": "https://www.bharatpetroleum.in/"
         },
         {
           "brand": "National Thermal Power Corporation",
-          "logo": "/sponsors/ntpc.png",
+          "logo": "66da12df001d68b442e0",
           "website": "https://ntpc.co.in/"
         }
       ]
@@ -137,18 +194,33 @@
       "brands": [
         {
           "brand": "Camlin",
-          "logo": "/sponsors/camlin.webp",
+          "logo": "66da16f9001961c114f7",
           "website": "https://www.kokuyocamlin.com/camlin/"
         },
         {
           "brand": "Life Insurance Corporation",
-          "logo": "/sponsors/lic.png",
+          "logo": "66da12b800343f0004ac",
           "website": "https://licindia.in/"
         },
         {
           "brand": "Khaadi",
-          "logo": "/sponsors/khaadi.jpg",
+          "logo": "66da12b30031d25a96a6",
           "website": "http://crisponlineservices.com/services/khadi/user_Registration_khadi.aspx"
+        }
+      ]
+    },
+    {
+      "category": "Education Partner",
+      "brands": [
+        {
+          "brand": "Quill Bot",
+          "logo": "66da12e6003e0a5c5bb3",
+          "website": "https://quillbot.com/"
+        },
+        {
+          "brand": "Unstop",
+          "logo": "66da13000015aac60b14",
+          "website": "https://unstop.com/"
         }
       ]
     },
@@ -157,18 +229,18 @@
       "brands": [
         {
           "brand": "Kabira",
-          "logo": "/sponsors/kabira.png",
+          "logo": "66da12ad003d69be651b",
           "website": "http://crisponlineservices.com/services/khadi/user_Registration_khadi.aspx"
         },
 
         {
           "brand": "Mrig Naini",
-          "logo": "/sponsors/mrig-naini.jpg",
+          "logo": "66da12cd003a517d1ea3",
           "website": "http://crisponlineservices.com/services/khadi/user_Registration_khadi.aspx"
         },
         {
           "brand": "Vidhya Valley",
-          "logo": "/sponsors/vindhya-valley.jpg",
+          "logo": "66da13070031c9507486",
           "website": "http://crisponlineservices.com/services/khadi/user_Registration_khadi.aspx"
         }
       ]
@@ -178,7 +250,7 @@
         "category": "Prize Sponsor",
         "brand": {
           "name": "M.P. State Electronics Development Corporation Ltd.",
-          "logo": "/sponsors/mpsedc.png",
+          "logo": "66da12c2000ce7fb483c",
           "website": "https://mpsedc.mp.gov.in/"
         }
       },
@@ -186,7 +258,7 @@
         "category": "Design Partner",
         "brand": {
           "name": "Canva",
-          "logo": "/sponsors/canva.png",
+          "logo": "66da129a000a51ab4648",
           "website": "https://www.canva.com/en_in/"
         }
       }
@@ -196,7 +268,7 @@
         "category": "Snacks Partner",
         "brand": {
           "name": "Unibic",
-          "logo": "/sponsors/unibic.png",
+          "logo": "66da12fa003a314a9637",
           "website": "https://www.unibicfoods.com/"
         }
       },
@@ -204,7 +276,7 @@
         "category": "Munching Partner",
         "brand": {
           "name": "Cornitos",
-          "logo": "/sponsors/cornitos.png",
+          "logo": "66da129e002f118b947b",
           "website": "https://www.cornitos.in/"
         }
       },
@@ -212,7 +284,7 @@
         "category": "Health & Hygiene Partner",
         "brand": {
           "name": "My Glamm",
-          "logo": "/sponsors/myglamm.png",
+          "logo": "66da12d80013545b6b85",
           "website": "https://www.myglamm.com/"
         }
       }
@@ -222,7 +294,7 @@
         "category": "Hospitality Partner",
         "brand": {
           "name": "Easy My Trip",
-          "logo": "/sponsors/ease-my-trip.png",
+          "logo": "66da12a3002407998ec7",
           "website": "https://www.easemytrip.com/"
         }
       },
@@ -230,265 +302,309 @@
         "category": "Travel Partner",
         "brand": {
           "name": "Abhi Bus",
-          "logo": "/sponsors/abhibus.png",
+          "logo": "66da128a001b61661223",
           "website": "https://www.abhibus.com/"
-        }
-      },
-      {
-        "category": "Education Partner",
-        "brand": {
-          "name": "Quill Bot",
-          "logo": "/sponsors/quillbot.png",
-          "website": "https://quillbot.com/"
         }
       }
     ]
   ],
-  "team": {
-    "3": [
-      {
-        "name": "Shrishti Mishra",
-        "post": "Coordinator",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e6e0004df2c13c5/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Atharv Nerkar",
-        "post": "Coordinator",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d0e00290ec19598/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Ayushi Sinha",
-        "post": "Co-Coordinator",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d1d0026fcdab618/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Gautam Kumar",
-        "post": "Co-Coordinator",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d4a000813538d58/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Prakriti Shree",
-        "post": "Quizzing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e59003e1eb6b29f/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Vyom Singhal",
-        "post": "Quizzing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7df500350270e249/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Shilpa Koley",
-        "post": "Administrative Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7dd60013d95de3ca/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Dhruv Singh Bhadauria",
-        "post": "Administrative Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7f4d0026c614915f/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Samarth Agarwal",
-        "post": "Quizzing Research and Content Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7dc6000a7e8f6588/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Mridul Upadhyay",
-        "post": "Quizzing Research and Content Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e4b000cc32ed2d5/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Yash Raj Menaria",
-        "post": "Quizzing Research and Content Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66bf6e9d00277fcf70ec/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Priyanshu Choudhury",
-        "post": "Technical Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7dba001496e03800/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Ajay Yadav",
-        "post": "Designing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7cfc001e81bdb546/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Archisha Singh",
-        "post": "Designing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7dfd001510ba1729/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Aksahat Jain",
-        "post": " Technical Design Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d020001ae41f040/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Sarthak Vyas",
-        "post": "Sponsorship Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e67000dab6ce5f5/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Anurag Dadarya",
-        "post": "Public Relations and Outreach Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d070038a18a6d5a/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+  "team": [
+    {
+      "name": "Nishchal Prajapati",
+      "post": "President",
+      "fileId": "66da0c720020495bb366",
+      "linkedIn": "https://www.linkedin.com/in/iamnishchal25/"
+    },
+    {
+      "name": "Harshita Nehra",
+      "post": "Vice-President",
+      "domain": "Organisation",
+      "fileId": "66da0c6b002a150fbc63",
+      "linkedIn": "https://www.linkedin.com/in/harshita-nehra-78bbb322a/"
+    },
+    {
+      "name": "Abhishek Meena",
+      "post": "Vice-President",
+      "domain": "Administration",
+      "fileId": "66da0c04000f72b96186",
+      "linkedIn": "https://www.linkedin.com/in/abhishek-meena01/"
+    },
+    {
+      "name": "Anurag Mishra",
+      "post": "General Secratory",
+      "domain": "Alumini Connect",
+      "fileId": "66da0c4a001ec32accb0",
+      "linkedIn": "https://www.linkedin.com/in/anurag-mishra-66ba9b227/"
+    },
+    {
+      "name": "Akshat Jain",
+      "post": "General Secratory",
+      "domain": "Creative Comms",
+      "fileId": "66da0c52003af4f9d5bc",
+      "linkedIn": "https://www.linkedin.com/in/akshat-jain-04a14b242/"
+    },
+    {
+      "name": "Suhani Jain",
+      "post": "Secratory",
+      "domain": "Public Relations",
+      "fileId": "66da0c890029315ebc24",
+      "linkedIn": "https://www.linkedin.com/in/suhani-jain-b96800239/"
+    },
+    {
+      "name": "Dheeraj Mandvi",
+      "post": "Treasurer",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/dheeraj-mandvi-0899111bb/"
+    },
+    {
+      "name": "Chetan Vaddamani",
+      "post": "Secretary",
+      "domain": "Media and Connect",
+      "fileId": "66da0c610013d100d905",
+      "linkedIn": "https://www.linkedin.com/in/chethan-vaddamani-aa368122b/"
+    },
+    {
+      "name": "Shreevathsav Kyama",
+      "post": "Secretary",
+      "domain": "Logistics",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/sreevathsav-kyama-163ab5223/"
+    },
+    {
+      "name": "Om Krishna",
+      "post": "Secretary",
+      "domain": "Compliance",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/om-krishna-928663183/"
+    },
+    {
+      "name": "Akash Goyal",
+      "post": "Secretary",
+      "domain": "Technical",
+      "fileId": "66da0c36001e248a28aa",
+      "linkedIn": "https://www.linkedin.com/in/akash-goyal-244646222/"
+    },
+    {
+      "name": "Thrishul Reddy",
+      "post": "Secretary",
+      "domain": "Partnership",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/thrishulreddy/"
+    },
+    {
+      "name": "Shrishti Mishra",
+      "post": "Coordinator",
+      "fileId": "66be7e6e0004df2c13c5",
+      "linkedIn": "https://www.linkedin.com/in/srishti-mishra-99bb5b257/"
+    },
+    {
+      "name": "Atharv Nerkar",
+      "post": "Coordinator",
+      "fileId": "66be7d0e00290ec19598",
+      "linkedIn": "https://www.linkedin.com/in/atharv-nerkar-3479aa259/"
+    },
+    {
+      "name": "Ayushi Sinha",
+      "post": "Co-Coordinator",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/ayushi-s-5bb812249/"
+    },
+    {
+      "name": "Gautam Kumar",
+      "post": "Co-Coordinator",
+      "fileId": "66be7d4a000813538d58",
+      "linkedIn": ""
+    },
+    {
+      "name": "Prakriti Shree",
+      "post": "Quizzing Head",
+      "fileId": "66be7e59003e1eb6b29f",
+      "linkedIn": "https://www.linkedin.com/in/prakriti-shree-0317a0254/"
+    },
+    {
+      "name": "Vyom Singhal",
+      "post": "Quizzing Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/vyom-singhal-bb1008260/"
+    },
+    {
+      "name": "Shilpa Koley",
+      "post": "Administrative Head",
+      "fileId": "66be7dd60013d95de3ca",
+      "linkedIn": "https://www.linkedin.com/in/shilpa-koley-719723259/"
+    },
+    {
+      "name": "Dhruv Singh Bhadauria",
+      "post": "Administrative Head",
+      "fileId": "",
+      "linkedIn": ""
+    },
+    {
+      "name": "Samarth Agarwal",
+      "post": "Quizzing Research and Content Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/samarth-agrawal-51543921a/"
+    },
+    {
+      "name": "Mridul Upadhyay",
+      "post": "Quizzing Research and Content Head",
+      "fileId": "66be7e4b000cc32ed2d5",
+      "linkedIn": "https://www.linkedin.com/in/mridul-upadhyay-9680b7265/"
+    },
+    {
+      "name": "Yash Raj Menaria",
+      "post": "Quizzing Research and Content Head",
+      "fileId": "66bf6e9d00277fcf70ec",
+      "linkedIn": "https://www.linkedin.com/in/yash-raj-menaria/"
+    },
+    {
+      "name": "Priyanshu Choudhury",
+      "post": "Technical Head",
+      "fileId": "66be7dba001496e03800",
+      "linkedIn": "https://www.linkedin.com/in/priyanshuc/"
+    },
+    {
+      "name": "Ajay Yadav",
+      "post": "Designing Head",
+      "fileId": "66be7cfc001e81bdb546",
+      "linkedIn": "https://www.linkedin.com/in/ajay-yadav-2o26/"
+    },
+    {
+      "name": "Archisha Singh",
+      "post": "Designing Head",
+      "fileId": "66be7dfd001510ba1729",
+      "linkedIn": "https://www.linkedin.com/in/archisha-singh-518a6a222/"
+    },
+    {
+      "name": "Akshat Jain",
+      "post": " Technical Design Head",
+      "fileId": "",
+      "linkedIn": ""
+    },
+    {
+      "name": "Sarthak Vyas",
+      "post": "Sponsorship Head",
+      "fileId": "66be7e67000dab6ce5f5",
+      "linkedIn": "https://www.linkedin.com/in/sarthak-vyas-99791b25b/"
+    },
+    {
+      "name": "Anurag Dadarya",
+      "post": "Public Relations and Outreach Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/atharv-nerkar-3479aa259/"
+    },
 
-      {
-        "name": "Karnika Nagpure",
-        "post": "Event Management Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d570028d6107f4e/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Vikranth Reddy",
-        "post": "Event Management Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e7b001c09b9d728/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Sampurna Mandal",
-        "post": "Event Management Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66bf6b320009e05022fc/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Karnika Nagpure",
+      "post": "Event Management Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/karnika-nagpure-3416b1278/"
+    },
+    {
+      "name": "Vikranth Reddy",
+      "post": "Event Management Head",
+      "fileId": "66be7e7b001c09b9d728",
+      "linkedIn": "https://www.linkedin.com/in/vikranth-reddy-bollam-14432722a"
+    },
+    {
+      "name": "Sampurna Mandal",
+      "post": "Event Management Head",
+      "fileId": "66bf6b320009e05022fc",
+      "linkedIn": "https://www.linkedin.com/in/sampurna-mandal-556a50259/"
+    },
 
-      {
-        "name": "Nimisha Shrivastava",
-        "post": "Finance Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7dac000acb562e40/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Nimisha Shrivastava",
+      "post": "Finance Head",
+      "fileId": "66be7dac000acb562e40",
+      "linkedIn": "https://www.linkedin.com/in/nimisha-shrivastava-094579278/"
+    },
 
-      {
-        "name": "Ganesh Nayak",
-        "post": "Alumini Convener",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66bf6b29001c69d421ca/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Ayush Sharma",
-        "post": "Alumini Convener",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d17003080237e74/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Ganesh Nayak",
+      "post": "Alumini Convener",
+      "fileId": "66bf6b29001c69d421ca",
+      "linkedIn": "https://www.linkedin.com/in/ganesh-nayak-32b33b257/"
+    },
+    {
+      "name": "Ayush Sharma",
+      "post": "Alumini Convener",
+      "fileId": "66be7d17003080237e74",
+      "linkedIn": "https://www.linkedin.com/in/ayush-sharma-27a488261/"
+    },
 
-      {
-        "name": "Prakriti Sharma",
-        "post": "Content Writing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7db2003d70bc7b43/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Prakriti Sharma",
+      "post": "Content Writing Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/prakriti-sharma-764671278/"
+    },
 
-      {
-        "name": "Mamunuri Vishwaendra Chary",
-        "post": "Content Writing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7dec002aa306f2b2/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Nethi Lehya Sri",
-        "post": "Creative Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7da5000ed91a2b84/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Mamunuri Vishwaendra Chary",
+      "post": "Content Writing Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/vishwendra-chary-mamunuri-07972726b/"
+    },
+    {
+      "name": "Nethi Lehya Sri",
+      "post": "Creative Head",
+      "fileId": "66be7da5000ed91a2b84",
+      "linkedIn": "https://www.linkedin.com/in/nethi-lehya-sri-0a2628261/"
+    },
 
-      {
-        "name": "Pragya Kolpal",
-        "post": "Media Content and Relations Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e520035fe0f8eec/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Divy Pareek",
-        "post": "Media Content and Relations Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d4300202965e4fe/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Pranjal Jain",
-        "post": "Digital Growth and Communications Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e600000a0e3d5af/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Pragya Kolpal",
+      "post": "Media Content and Relations Head",
+      "fileId": "66be7e520035fe0f8eec",
+      "linkedIn": "https://www.linkedin.com/in/pragya-kolpal-1a76a5278/"
+    },
+    {
+      "name": "Divy Pareek",
+      "post": "Media Content and Relations Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/divypareek/"
+    },
+    {
+      "name": "Pranjal Jain",
+      "post": "Digital Growth and Communications Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/pranjal-jain-547a37256/"
+    },
 
-      {
-        "name": "Shruti Upadhyay",
-        "post": "Video Editing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66bf861400053c748d37/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Rohit Kumar",
-        "post": "Video Editing Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7dc00015e3e85c0f/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Shivam Malviya",
-        "post": "Photography Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be80c000343ce6826f/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Shruti Upadhyay",
+      "post": "Video Editing Head",
+      "fileId": "66bf861400053c748d37",
+      "linkedIn": "https://www.linkedin.com/in/shruti-upadhyay-41673b278/"
+    },
+    {
+      "name": "Rohit Kumar",
+      "post": "Video Editing Head",
+      "fileId": "66be7dc00015e3e85c0f",
+      "linkedIn": "https://www.linkedin.com/in/rohit-kumar-757690315/"
+    },
+    {
+      "name": "Shivam Malviya",
+      "post": "Photography Head",
+      "fileId": "",
+      "linkedIn": ""
+    },
 
-      {
-        "name": "Manan Verma",
-        "post": "Logistics and operations Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7d5d002851e5e7f1/view?project=6658adc6003352cb4b85&mode=admin"
-      },
+    {
+      "name": "Manan Verma",
+      "post": "Logistics and operations Head",
+      "fileId": "",
+      "linkedIn": "https://www.linkedin.com/in/manan-verma-54904525a/"
+    },
 
-      {
-        "name": "Vemula Teja Manideep",
-        "post": "Logistics and operations Head",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be78fe000854d7b4f5/files/66be7e73003e72aaf95e/view?project=6658adc6003352cb4b85&mode=admin"
-      }
-    ],
-    "4": [
-      {
-        "name": "Nishchal Prajapati",
-        "post": "President",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79d600170478f6c1/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Harshita Nehra",
-        "post": "Vice-President(Organisation)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79c7003e62d5327f/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Abhishek Meena",
-        "post": "Vice-President(Administration)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be799e00053ec53f81/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Anurag Mishra",
-        "post": "General Secratory(Alumini Connect)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79b6001c42854028/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Akshat Jain",
-        "post": "General Secratory(Creative Comms)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79af00119ef70cb7/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Suhani Jain",
-        "post": "Secratory(Public Relations)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be7a00000af7a8f8c8/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Dheeraj Mandvi",
-        "post": "Treasurer",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be798c001b5b3b67bf/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Chetan Vaddamani",
-        "post": "Secretary(Media and Connect)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79c000302b703b83/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Shreevathsav Kyama",
-        "post": "Secretary(Logistics)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79f800275c47cfe7/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Om Krishna",
-        "post": "Secretary(Compliance)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79de001d44557b48/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Akash Goyal",
-        "post": "Secretary(Technical)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be79a40021bba40093/view?project=6658adc6003352cb4b85&mode=admin"
-      },
-      {
-        "name": "Thrishul Reddy",
-        "post": "Secretary(Partnership)",
-        "image": "https://cloud.appwrite.io/v1/storage/buckets/66be790c001a42910cde/files/66be7a0600317256792e/view?project=6658adc6003352cb4b85&mode=admin"
-      }
-    ]
-  },
+    {
+      "name": "Vemula Teja Manideep",
+      "post": "Logistics and operations Head",
+      "fileId": "66be7e73003e72aaf95e",
+      "linkedIn": "https://www.linkedin.com/in/tejamanideep-vemula-b77569278/"
+    }
+  ],
   "qna": [
     {
       "question": "What is Quizzers Club MANIT?",
@@ -514,10 +630,9 @@
   "instructions": {
     "general": {
       "Don'ts": "Exit fullscreen mode, Change window - These will lead to immediate disqualification",
-      "Eligibility": "The quiz is open to all registered participants. Ensure you have registered before the deadline",
-      "Quiz Timing": "The quiz will start promptly at [start time] on [date]. Ensure you are logged in and ready by this time",
-      "Total Duration": "The total quiz duration is 40 minutes",
-      "Total Marks": "The quiz is of 150 marks"
+      "Timings": "The quiz will start promptly at [start time] on [date]. Ensure you are logged in and ready by this time",
+      "Total Duration": "40 minutes",
+      "Total Marks": "150"
     },
     "section-1": {
       "time": 10,

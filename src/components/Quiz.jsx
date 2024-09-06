@@ -95,16 +95,16 @@ const Quiz = ({ quiz = {}, setShowModal = () => {} }) => {
           })
           .then((doc) => {
             dispatch(addQuiz(doc))
-            toast.success("Quiz Added Successfully")
+            toast("Quiz Added Successfully")
           })
           .catch((error) => {
-            toast.error(error.message)
+            toast(error.message)
             console.error(error)
           })
           .finally(resetVals)
       })
       .catch((error) => {
-        toast.error(error.message)
+        toast(error.message)
         console.error(error)
       })
   }, [])
@@ -160,11 +160,11 @@ const Quiz = ({ quiz = {}, setShowModal = () => {} }) => {
                     changes: doc
                   })
                 )
-                toast.success("Quiz Updated Successfully")
+                toast("Quiz Updated Successfully")
               })
               .catch((error) => {
                 console.error(error)
-                toast.error(error.message)
+                toast(error.message)
               })
               .finally(() => {
                 setShowModal(false)

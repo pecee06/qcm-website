@@ -47,7 +47,10 @@ const Event = () => {
           </h3>
           <hr />
           {event.content.split("\n").map((para, index) => (
-            <p className="md:text-base text-xs leading-relaxed" key={index}>
+            <p
+              className="md:text-base text-xs leading-relaxed text-justify"
+              key={index}
+            >
               {para}
             </p>
           ))}
